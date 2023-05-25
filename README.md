@@ -1,13 +1,11 @@
-### Hi there 👋
-
+[![MasterHead](https://www.technoloader.com/blog/wp-content/uploads/2020/01/Hire-React-Native.gif)](https://debugpanda.io)
 <h1 align="center">Hi 👋, I'm DebugPanda</h1>
 <h3 align="center">A passionate arising developer from India.</h3>
+<img align="right" alt="Coding" width="400" src="https://storage.cloudconvert.com/tasks/d971823f-ce32-412b-9997-b04820538bfb/fotor-ai-2023052522233-fotor-bg-remover-2023052522735.gif?AWSAccessKeyId=cloudconvert-production&Expires=1685119103&Signature=zdXebpYbn2MH1SMZbEZPrAHoAwM%3D&response-content-disposition=attachment%3B%20filename%3D%22fotor-ai-2023052522233-fotor-bg-remover-2023052522735.gif%22&response-content-type=image%2Fgif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debugpanda&label=Profile%20views&color=0e75b6&style=flat" alt="debugpanda" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=debugpanda" alt="debugpanda" /></a> </p>
-
-- 🌱 I’m currently learning **Fluuter and Swift**
+- 🌱 I’m currently learning **Flutter and Swift**
 
 - 📫 How to reach me **earbuds_0_spree@icloud.com**
 
